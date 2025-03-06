@@ -8,3 +8,5 @@ npm run start:dev
 ```
 in project root, this will open up node-red on http://localhost:1880
 with all custom nodes installed
+
+### [How to update SP-API models](node-red-contrib-rollun-aws-sp-api/README.md)
